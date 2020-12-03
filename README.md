@@ -7,7 +7,7 @@ My solutions for Advent of Code 2020.
 | Day | Part 1 | Part 2 |
 |-----|--------|--------|
 | 1   | /      | /      |
-| 2   |        |        |
+| 2   | /      |        |
 | 3   |        |        |
 | 4   |        |        |
 | 5   |        |        |
