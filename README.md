@@ -1,4 +1,4 @@
-<h1 style="width: 100%; text-align: center;">:christmas_tree: Advent of Code Solutions 2020 :christmas_tree:</h1>
+<h1 style="align: center;">:christmas_tree: Advent of Code Solutions 2020 :christmas_tree:</h1>
 
 My solutions for Advent of Code 2020.
 
