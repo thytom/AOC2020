@@ -33,5 +33,6 @@ My solutions for Advent of Code 2020.
 | 25  |        |        |
 
 | Day 	 | 1 	   | 2 | 3 | 4 | 5 | 6 |
+|--------|---------|---|---|---|---|---|
 | Part 1 | &check; |   |   |   |   |   |
 | Part 2 | &check; |   |   |   |   |   |
