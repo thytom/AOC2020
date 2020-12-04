@@ -1,6 +1,6 @@
 <h1 align="center">:christmas_tree: Advent of Code Solutions 2020 :christmas_tree:</h1>
+<p align="center">My solutions for Advent of Code 2020.</p>
 
-My solutions for Advent of Code 2020.
 
 ## Days Complete:
 
