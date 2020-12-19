@@ -1,0 +1,7 @@
+*
+!*/
+.session
+!src/*/*/*.hs
+!src/*/*/*.py
+!src/*/*/input
+!*.md
